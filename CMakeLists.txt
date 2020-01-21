@@ -4,4 +4,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 project(scratch)
 
-add_executable(matrix_test src/matrix_test.cpp src/matrix.cpp)
+add_executable(matrix_test src/matrix_test.cpp)
