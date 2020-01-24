@@ -1,3 +1,10 @@
+/* 
+ * @brief: Given a set of tickets, where each ticket consists of origin and destination.
+ *         Q1: Given a start and an end station, is there a set of tickets that can do the trip? --Done
+ *         Q2: Can you also print the set of tickets that will satisfy the constraint?
+ */
+
+
 #include <vector>
 #include <unordered_map>
 #include <cassert>

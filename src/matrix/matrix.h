@@ -1,3 +1,7 @@
+/* 
+ *@brief: class for basic matrix structure. This also contains method for matrix multiplication. 
+ */
+
 #include <vector>
 
 using std::vector;
