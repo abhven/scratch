@@ -54,6 +54,12 @@ void Matrix::print() {
     }
 }
 
+/**
+ * @brief 
+ * 
+ * @param m 
+ * @return Matrix 
+ */
 Matrix Matrix::multiply(Matrix m){
     assert(cols_ == m.get_rows());
     Matrix res(rows_, m.get_cols());

@@ -1,5 +1,7 @@
-/* 
- * @brief:
+/**
+ * @brief You are given a 2D world with each cell containig the state of the cell. 
+ *        At every time step a cell is brought back to life, killed or maintains 
+ *        state based on certain conditions based on its neighbours
  */
 
 #include<cassert>
